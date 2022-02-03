@@ -1,0 +1,12 @@
+10 проектов написанных на Phyton или используют данный язык в разработке.
+
+Pinterest
+Panda 3D
+Dropbox
+Spotify
+Netflix
+Uber
+Instagram
+Reddit
+Google
+Youtube
